@@ -1,0 +1,31 @@
+*.pyc
+*.html~
+*.p
+*.json~
+*.db
+*.pk
+*.swp
+*.swm
+*.swn
+*.swo
+*.csv
+*.npy
+
+.venv
+/.venv
+venv
+/venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+notebooks/*.html
+
+# Installation
+build/
+dist/
+*.egg-info/
+
+# Mac files
+*.DS_Store
+
+*__pycache__/
